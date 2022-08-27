@@ -1104,6 +1104,12 @@ a {
     bottom: 295px;
     left: 470px;
 }
+.col-md-10 > i {
+    position: absolute;
+    right: 0;
+    top: 9px;
+    z-index: 10;
+}
 .custom-dropdown {
     width: auto;
     display: inline-block;
